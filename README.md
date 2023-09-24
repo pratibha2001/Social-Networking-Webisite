@@ -1,8 +1,4 @@
 # Social-Networking-Website
-Built a project with MERN stack, This is social media platform where you can share posts, react to posts, follow users, and chat with users in real time
-
-# Social Media Complete Mern project
-
 A MERN stack based project on social media application. It is completely working project. Its' completely responsive application. MongoDB Express React Redux NodeJs are user in this projec
 
 
